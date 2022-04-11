@@ -1,4 +1,5 @@
 'use strict';
+//Create function that will return all the most repeated element.
 
 function repeatedChars(arr) {
   let result = arr.reduce(function (prev, current) {
